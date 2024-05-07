@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Ascenda Hotel Booking Website
+This project is a web application to simulate a hotel booking website and is made for Ascenda. 
+<br> The project uses ReactJS for the frontend and Go for the backend.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
