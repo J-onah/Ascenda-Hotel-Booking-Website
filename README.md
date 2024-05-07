@@ -1,6 +1,8 @@
 # Ascenda Hotel Booking Website
-This project is a web application to simulate a hotel booking website and is made for Ascenda. 
+This project is a web application designed to simulate a hotel booking website and is made for Ascenda. 
 <br> The project uses ReactJS for the frontend and Go for the backend.
+
+<hr>
 
 ## Getting Started with Create React App
 
